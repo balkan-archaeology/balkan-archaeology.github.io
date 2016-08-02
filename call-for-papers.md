@@ -26,12 +26,14 @@ Abstract submissions: **October 10**.
 
 Contact: [balkan.arch.16@gmail.com](mailto:balkan.arch.16@gmail.com)
 
-<div style="float: right;">
+<div style="float: right; text-align: right;">
   <i>Assoc. prof. Dr P. Georgieva</i>,
   <br>
   Head of Department of Archeology, Sofia University
 </div>
 
-*Assoc. prof. Dr L. Vagalinski*,
-<br>
-Director of NAIM-BAS
+<div style="float: left;">
+  <i>Assoc. prof. Dr L. Vagalinski</i>,
+  <br>
+  Director of NAIM-BAS
+</div>
