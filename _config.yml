@@ -9,7 +9,8 @@
 title: Balkan Archaeology 2016
 email: balkan.arch.16@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  The Balkan Archaeology 2016 conference will take place in Sofia, Bulgaria.
+  The doctoral student conference Balkan Archaeology 2016 conference will
+  take place in Sofia, Bulgaria.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
