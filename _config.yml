@@ -9,8 +9,7 @@
 title: Balkan Archaeology 2016
 email: balkan.arch.16@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Filov Symposium 2016 is organized by the Department of Archaeology at Sofia
-  University and by the National Institute of Archaeology with Museum.
+  Organized by the Department of Archaeology at Sofia University and by the National Institute of Archaeology with Museum.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 

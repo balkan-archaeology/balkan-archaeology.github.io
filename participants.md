@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Participants
+title: Participation Requests
 permalink: /participants/
 ---
 | Кати Банева | Cardiff University, Wales, UK |

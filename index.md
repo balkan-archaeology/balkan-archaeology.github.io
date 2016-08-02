@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{{ site.description }}
+# Add some description here
 
 <div class="home">
 
