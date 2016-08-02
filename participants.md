@@ -22,9 +22,9 @@ permalink: /participants/
 | Vasile Opris | Vasile Parvan Institute of Archaeology, Romanian Academy Bucharest Muncipality Museum |
 | Danaila Grudeva | Department of Archaeology, Faculty of History, St. Kliment Ohridski University, Sofia, Bulgaria |
 | Adelina Darie | Vasile Parvan Institute of Archaeology, Romanian Academy Bucharest Municipal Museum |
-| Dženan Brigić | University og Zagreb ? |
+| Dženan Brigić | University of Zagreb |
 | Rumyana Yordanova | Department of Archaeology, Faculty of History, St. Kliment Ohridski University, Sofia, Bulgaria |
-| Ivan Suvandzhiev | Department of Archaeology, University of Veliko Turnovo “St.Cyril and St. Methodius” |
+| Ivan Suvandzhiev | Department of Archaeology, University of Veliko Turnovo St.Cyril and St. Methodius |
 | Sven Brummak | Freie Universität Berlin |
 | Mehmet Karaucak | Deutsches Archäologisches Institut – Eurasien Abteilung |
 | Kaloyan Pramatarov | Department of Archaeology, Faculty of History, St. Kliment Ohridski University, Sofia, Bulgaria |
