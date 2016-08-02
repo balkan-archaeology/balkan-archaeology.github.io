@@ -54,13 +54,13 @@ $on-laptop:        800px;
 
 body {
     background-image: url("../images/background.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
+    background-repeat: repeat-y;
+    background-position: top center;
 }
 
 .site-header {
     border-top-width: 0px;
-    border-bottom-width: 1px;
+    border-bottom-width: 0px;
 }
 
 .site-footer {

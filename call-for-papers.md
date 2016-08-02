@@ -4,7 +4,6 @@ title: Call for Papers
 permalink: /call-for-papers/
 ---
 
-
 Dear colleagues,
 
 The Department of Archaeology of Sofia University St. Kliment Ohridski and the National Institute of Archaeology with Museum of the Bulgarian Academy of Sciences jointly organize an international doctoral student conference. It will take place in Sofia, Bulgaria from **the 17th to the 20th of November 2016**. The conference topic this year is **Balkan Archaeology**. Our goal is to facilitate working contacts between the youngest researchers of Balkan past. Presentations will be grouped in three sections: **Prehistory, Classical Archaeology, and Mediaeval Archaeology**.

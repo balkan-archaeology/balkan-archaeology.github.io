@@ -2,17 +2,7 @@
 layout: default
 ---
 
-# What
-
-Write some text here.
-
-# When
-
-Write some text here.
-
-# Where
-
-Write some text here.
+{{ site.description }}
 
 <div class="home">
 
