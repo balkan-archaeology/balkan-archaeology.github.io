@@ -25,4 +25,4 @@ Participation requests: *July 30*.
 
 Abstract submissions: *October 10*.
 
-Contact: *balkan.arch.16@gmail.com*
+Contact: [balkan.arch.16@gmail.com](mailto:balkan.arch.16@gmail.com)
