@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Participation Requests Now Online"
+title:  "List of Participation Requests Now Available"
 date:   2016-08-05 15:30:04 +0300
 ---
 
-Participation requests have been published and can be found
-[here](../participants/).
+We've received over 50 participation requests and they have been published [here](../participants/).

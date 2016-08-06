@@ -16,10 +16,9 @@ The international doctoral conference in 2016 will be the fourth in
 the series *Filov Symposium* and will be the first with international
 participation.
 
-Due to the significant number of participation requests, the
-presentations will take place simultaneously in two halls --
-*Prehistory* (from the Paleolithic to the end of Bronze Age) and
-*Archaeology*.
+To accommodate the significant number of participation requests, the
+presentations will be in two parallel tracks -- *Prehistory* (from
+the Paleolithic to the end of Bronze Age) and *Archaeology*.
 
 ## News
 
