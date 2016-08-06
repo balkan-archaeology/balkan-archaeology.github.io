@@ -17,8 +17,7 @@ permalink: /participants/
 | Marta Rakvin | University of Zagreb, Faculty of Humanities and Social Sciences, Department of Archaeology |
 | Nikolina Nikolova  | Department of Archaeology, Faculty of History, St. Kliment Ohridski University, Sofia, Bulgaria |
 | Zheni Vasileva | Department of Archaeology, Faculty of History, St. Kliment Ohridski University, Sofia, Bulgaria |
-| Nevyan Mitev | Department of Archaeology, University of Veliko Turnovo
-St.Cyril and St. Methodius |
+| Nevyan Mitev | Department of Archaeology, University of Veliko Turnovo St.Cyril and St. Methodius |
 | Nihan Naiboğlu | University of Istanbul, Department of Prehistory |
 | Vasile Opris | Vasile Parvan Institute of Archaeology, Romanian Academy Bucharest Muncipality Museum |
 | Danaila Grudeva | Department of Archaeology, Faculty of History, St. Kliment Ohridski University, Sofia, Bulgaria |
