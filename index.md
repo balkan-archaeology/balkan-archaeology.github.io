@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Welcome
-
 The Department of Archaeology of Sofia University *St. Kliment
 Ohridski* and the National Institute of Archaeology with Museum of the
 Bulgarian Academy of Sciences jointly organize an international
