@@ -22,17 +22,20 @@ visible when you exit.
 
 Metro tickets can be bought at the station for BGN 1.60.
 
-**By Bus**: From terminal 1 or 2, take bus line 84 and get off at
-*Orlov Most*, just after the bus crosses the bridge and turns
-left. Continue walking in the direction the bus came from, passing the
-tall monument on your left side. You should see the university
-building on your right at the next intersection.
+**By Bus**: From terminal 1 or 2, take bus line 84 towards the city
+center and get off at *Orlov Most*, just after the bus crosses the
+bridge and turns left. Continue walking in the direction the bus came
+from, passing the tall monument on your left side. You should see the
+large university building on your right at the corner of the next
+intersection.
 
 Bus tickets can be bought from the driver with exact change and cost
 BGN 1.60. They need to be perforated using the validation machines on
 the bus.
 
 Bear in mind that the bus travels considerably slower than the metro.
+
+[Sofia Airport public transport webpage](http://www.sofia-airport.bg/en/passengers/and-airport/public-transport).
 
 ### From Central Train and Bus Station
 
@@ -49,9 +52,11 @@ Metro tickets can be bought at the station for BGN 1.60.
 Bus, tram and trolley tickets can be bought from small vendors at most
 stops or from the drivers and are validated using the perphorators
 inside the vehicle. A separate ticket is needed for every ride.
+[City transport website](https://www.sofiatraffic.bg/en/transport/121/marshrutna-mrezha).
 
 Metro tickets are sold at stations and are validated when entering the
 station.
+[Metro website](http://www.metrosofia.com/en/).
 
 Tickets cost 1.60 BGN.
 
