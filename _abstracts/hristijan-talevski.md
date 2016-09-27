@@ -6,7 +6,7 @@ title: "The Permeability Level of the Early Byzantine Northern Balkan
 
 author: "Hristijan Talevski"
 
-institution: "Institute of Old Slavenic Culture – Prilep"
+institution: "Institute of Old Slavic Culture – Prilep"
 ---
 
 The subject of this study is an attempt to investigate the early
