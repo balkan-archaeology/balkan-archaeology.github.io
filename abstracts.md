@@ -8,7 +8,7 @@ permalink: /abstracts/
     {% for abstract in site.abstracts %}
       <li>
         <b>{{ abstract.author }}</b>,
-        <i>{{ abstract.institution }}</i> <br>
+        {{ abstract.institution }} <br>
         <a href="{{ abstract.url }}">{{ abstract.title }} </a>
       </li>
     {% endfor %}

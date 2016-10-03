@@ -6,6 +6,9 @@ title: "Gornja Tuzla – Neolithic Settlement of Northern Bosnia"
 author: "Dženan Brigić"
 
 institution: "University of Zagreb"
+
+keywords: "Gornja Tuzla, Starčevo, Vinča Culture,
+           Middle-Late Neolithic"
 ---
 
 Gornja Tuzla is located in northeastern Bosnia on the final slopes of

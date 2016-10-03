@@ -5,7 +5,10 @@ layout: default
 
   <header class="post-header">
     <h2 class="post-title">{{ page.title }}</h2>
-    <h3> <b>{{ page.author}}</b>, <i>{{ page.institution }}</i> </h3>
+    <h3> <b>{{ page.author}}</b>, {{ page.institution }} </h3>
+    {% if page.keywords.size > 0 %}
+    Keywords: <i>{{ page.keywords }}</i>
+    {% endif %}
   </header>
 
   <div class="post-content">
