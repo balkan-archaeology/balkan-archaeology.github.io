@@ -9,7 +9,10 @@ permalink: /abstracts/
       <li>
         <b>{{ abstract.author }}</b>,
         {{ abstract.institution }} <br>
-        <a href="{{ abstract.url }}">{{ abstract.title }} </a>
+        <a href="{{ abstract.url }}">{{ abstract.title }} </a> <br>
+        {% if abstract.keywords.size > 0 %}
+           Keywords: <i>{{ abstract.keywords }}</i>
+        {% endif %}
       </li>
     {% endfor %}
   </ul>
