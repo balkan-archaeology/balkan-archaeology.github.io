@@ -1,8 +1,8 @@
 ---
 layout: abstract
 
-title: "First insights on the antler industry from the
-        prehistoric lakeside settlement Anarghiri IXb,
+title: "First Insights on the Antler Industry from the
+        Prehistoric Lakeside Settlement Anarghiri IXb,
         Western Macedonia, Greece"
 
 author: "Christopher Arabatzis"
