@@ -1,9 +1,9 @@
 ---
 layout: abstract
 
-title: "Over the hills and far away: Reassessing the <sup>14</sup>C
-        chronological frameworks of the 5th Millennium BC
-        between Iran and Southeastern Europe"
+title: "Over the Hills and Far Away: Reassessing the <sup>14</sup>C
+        Chronological Frameworks of the 5th Millennium BC
+        Between Iran and Southeastern Europe"
 
 author: "Mehmet Karaucak"
 
