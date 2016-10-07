@@ -8,7 +8,7 @@ author: "Vladimir Staykov"
 
 institution: "Sofia University “St. Kliment Ohridski”"
 
-Keywords: "Early Middle Age, Necropolises, Northwestern Bulgaria,
+keywords: "Early Middle Age, Necropolises, Northwestern Bulgaria,
            Christianization, Slavs, Avars, Ethnical identification"
 ---
 
