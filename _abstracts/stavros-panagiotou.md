@@ -7,6 +7,10 @@ title: "Arab-Byzantine Relations in the Medieval Mediterranean and
 author: "Stavros Symeon Panagiotou"
 
 institution: "Neapolis University, Cyprus"
+
+keywords: "Arab-Byzantine Relations, Coptic Navigation,
+           Military Intelligence, Skylitzes Manuscript,
+           Eastern Mediterranean"
 ---
 
 Byzantium and the Arabs, the two great powers in early Medieval times,
