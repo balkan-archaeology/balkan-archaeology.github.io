@@ -8,6 +8,8 @@ title: "First Insights on the Antler Industry from the
 author: "Christopher Arabatzis"
 
 institution: "Institute of Archaeological Sciences, University of Bern"
+
+keywords: "Antler Artifacts, Lakeside Settlement, Western Macedonia"
 ---
 
 The last fifteen years the Archaeological Service of Florina has
