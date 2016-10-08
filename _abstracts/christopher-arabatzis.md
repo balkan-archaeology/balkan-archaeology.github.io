@@ -9,7 +9,8 @@ author: "Christopher Arabatzis"
 
 institution: "Institute of Archaeological Sciences, University of Bern"
 
-keywords: "Antler Artifacts, Lakeside Settlement, Western Macedonia"
+keywords: "Antler Artifacts, Lakeside Settlement,
+           Western Macedonia, Neolithic, Bronze Age"
 ---
 
 The last fifteen years the Archaeological Service of Florina has
