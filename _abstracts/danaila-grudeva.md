@@ -7,7 +7,8 @@ author: "Danaila Grudeva"
 
 institution: "Sofia University “St. Kliment Ohridski”"
 
-keywords: ""
+keywords: "Furniture, Klinai, Type B Decoration, Late Classical and
+           Hellenistic Period, Thrace, Tombs"
 ---
 
 The monumental tombs in Thrace from the Late Classical and Hellenistic
