@@ -9,6 +9,7 @@ author: "Angeliki Karathanou"
 
 institution: "Aristotle University of Thessaloniki,
               Dep. of History and Archaeology"
+
 keywords: "Storage, Disposal, Taphonomic Factors,
            Late Bronze Age, Aegean"
 ---
