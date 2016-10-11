@@ -9,7 +9,7 @@ institution: "University of Veliko Turnovo “St.Cyril and
               St. Methodius”"
 
 keywords: "Lower Moesia, Thrace, Nicopolis ad Istrum, Late Antonine
-           period, Early Severan period, pediment, sanctuary, Diana
+           Period, Early Severan Period, Pediment, Sanctuary, Diana
            Totoithiana"
 ---
 
