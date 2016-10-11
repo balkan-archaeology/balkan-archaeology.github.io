@@ -8,7 +8,8 @@ author: "Vladislav Zhivkov"
 
 institution: "Department of Classical Archaeology, NIAM-BAS"
 
-keywords: ""
+keywords: "Hellenistic Age, Bronze Pitcher, Thracian Toreutics,
+           Repoussé Embossing"
 ---
 
 During the past century there have been a lot of discussions regarding
