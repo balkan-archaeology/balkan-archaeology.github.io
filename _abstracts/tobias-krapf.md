@@ -2,16 +2,16 @@
 layout: abstract
 
 title: "The Balkan Bronze Age Borderland Project.
-       Bringing Together Young Scholars Working on the LBA / EIA"
+        Bringing Together Young Scholars Working on the LBA / EIA"
 
 author: "Tobias Krapf<sup>†</sup>, Ole Aslaksen<sup>‡</sup>"
 
-institution: "<br><sup>†</sup>Universität Basel / Université Paris 1
-              Panthéon-Sorbonne, <sup>‡</sup>University of Gothenburg"
+institution: "<br><sup>†</sup>University of Basel / Pantheon-Sorbonne
+              University, <sup>‡</sup>University of Gothenburg"
 
 keywords: "Late Bronze Age, Early Iron Age, Southern Balkans,
-          Workshop, Platform for Exchange, Network, Interregional
-          Comparison"
+           Workshop, Platform for Exchange, Network, Interregional
+           Comparison"
 ---
 
 A new project for connecting young researchers working on the LBA and
