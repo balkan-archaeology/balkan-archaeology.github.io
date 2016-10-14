@@ -8,8 +8,8 @@ author: "Cătălin Cozma"
 
 institution: "Faculty of History, Alexandru Ioan Cuza University of Iași"
 
-keywords: "Early Iron Age, Iron Metallurgy, Iron Technology,
-           Archeometry, New Perspectives"
+keywords: "Early Iron Age, NW Pontic Area, Iron Metallurgy, Iron
+           Technology, Archaeometry, New Perspectives"
 ---
 
 This paper is a review of the course of research during the last
