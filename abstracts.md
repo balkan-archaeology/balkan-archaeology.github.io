@@ -7,9 +7,9 @@ permalink: /abstracts/
   <ul class="post-list">
     {% for abstract in site.abstracts %}
       <li>
-        <b>{{ abstract.author }}</b>,
-        {{ abstract.institution }} <br>
         <a href="{{ abstract.url }}">{{ abstract.title }} </a> <br>
+        <b>{{ abstract.author }}</b>
+        ({{ abstract.institution }}) <br>
         {% if abstract.keywords.size > 0 %}
            Keywords: <i>{{ abstract.keywords }}</i>
         {% endif %}
