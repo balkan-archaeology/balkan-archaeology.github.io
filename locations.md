@@ -11,7 +11,9 @@ permalink: /locations/
 Locations are within walking distance (10 minutes by foot) from each
 other.
 
-<iframe src="https://www.google.com/maps/d/embed?mid=12ro2QmAxhpADmznHH2waVK1YlXM" width="100%" height="480" frameborder="0" style="border:0"></iframe>
+<center><iframe
+src="https://www.google.com/maps/d/embed?mid=12ro2QmAxhpADmznHH2waVK1YlXM"
+width="90%" height="480" frameborder="0" style="border:0"></iframe></center>
 
 ### From Sofia Airport
 
