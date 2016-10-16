@@ -7,6 +7,8 @@ author: "Vasile Opris"
 
 institution: "Vasile Pârvan Institute of Archaeology,
               Bucharest Municipal Museum"
+
+keywords: ""
 ---
 
 The pottery of Gumelnitsa culture (4550-3900 B.C.) was first studied

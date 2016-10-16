@@ -7,6 +7,8 @@ title: "Anthropomorphic Figurines with Metal Ornaments in the
 author: "Adelina Darie"
 
 institution: "Bucharest Municipal Museum"
+
+keywords: ""
 ---
 
 This study emphasizes the association between two distinct raw

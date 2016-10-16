@@ -8,6 +8,8 @@ title: "Spinning in the Central Balkans and the Rilo-Rhodope Area
 author: "Ivan Kotsov"
 
 institution: "Department of Prehistory, NIAM-BAS"
+
+keywords: ""
 ---
 
 The Final Chalcholithic covers the time after the end of the classical
