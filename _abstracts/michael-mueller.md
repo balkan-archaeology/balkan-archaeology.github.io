@@ -7,7 +7,7 @@ title: "On the Contextual and General Distribution of Anthropomorphic
 
 author: "Michael Müller"
 
-institution: "German Archaeological Institute, Eurasia Division"
+institution: "German Archaeological Institute"
 
 keywords: "Copper Age, Gumelniţa Culture, Anthropomorphic Figurines,
            Tell Settlement, Pietrele"

@@ -6,7 +6,7 @@ title: "The Crescent-Shaped Pectorals from Thrace, 5th Century BC:
 
 author: "Desislava Lyubenova"
 
-institution: "Department of Thracian Archaeology, NIAM-BAS"
+institution: "NIAM-BAS"
 
 keywords: "Crescent-Shaped Pectorals, Ancient Thrace, Asia Minor,
            Scythia"

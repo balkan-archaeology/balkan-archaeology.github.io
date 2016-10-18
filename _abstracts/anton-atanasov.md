@@ -7,7 +7,7 @@ title: "Problems and Perspectives of the Application of the
 
 author: "Anton Atanasov"
 
-institution: "University of Veliko Turnovo “St.Cyril and St. Methodius”"
+institution: "University of Veliko Turnovo “St. Cyril and St. Methodius”"
 
 keywords: ""
 ---

@@ -6,8 +6,7 @@ title: "Spinning in Their Graves: Contextualizing Medieval Prone
 
 author: "Petar Parvanov"
 
-institution: "Central European University and University College
-              London"
+institution: "Central European University, University College London"
 
 keywords: "Prone Position, Deviant Burials, Bulgaria, Social
            Archaeology"

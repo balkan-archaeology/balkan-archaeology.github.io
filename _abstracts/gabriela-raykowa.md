@@ -5,7 +5,7 @@ title: "Adornment from the Necropolis of Church № 2 of Kaliakra"
 
 author: "Gabriela Raykowa"
 
-institution: "Department of Medieval Archaeology, NIAM-BAS"
+institution: "NIAM-BAS"
 
 keywords: "Adornments, Medieval, Necropolis"
 ---

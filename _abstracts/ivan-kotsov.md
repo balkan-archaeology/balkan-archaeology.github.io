@@ -7,7 +7,7 @@ title: "Spinning in the Central Balkans and the Rilo-Rhodope Area
 
 author: "Ivan Kotsov"
 
-institution: "Department of Prehistory, NIAM-BAS"
+institution: "NIAM-BAS"
 
 keywords: ""
 ---

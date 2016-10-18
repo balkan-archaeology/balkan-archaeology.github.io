@@ -6,7 +6,7 @@ title: "Old Sinies: an Abandoned Medieval Settlement in the North East
 
 author: "Dimitra Zoi"
 
-institution: "University of Ioannina/Department of History and Archaeology"
+institution: "University of Ioannina"
 
 keywords: "Corfu Island, Pantokrator, Old Sinies, Medieval,
            Settlement, Post Byzantine, Frescoes, Rural Architecture"

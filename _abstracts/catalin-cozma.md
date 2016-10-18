@@ -6,7 +6,7 @@ title: "Iron Metallurgy in the North-Western Pontic Area (1200-500
 
 author: "Cătălin Cozma"
 
-institution: "Faculty of History, Alexandru Ioan Cuza University of Iași"
+institution: "Alexandru Ioan Cuza University of Iași"
 
 keywords: "Early Iron Age, NW Pontic Area, Iron Metallurgy, Iron
            Technology, Archaeometry, New Perspectives"

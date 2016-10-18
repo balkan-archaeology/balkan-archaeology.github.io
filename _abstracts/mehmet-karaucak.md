@@ -7,7 +7,7 @@ title: "Over the Hills and Far Away: Reassessing the <sup>14</sup>C
 
 author: "Mehmet Karaucak"
 
-institution: "German Archaeological Institute, Eurasia Division"
+institution: "German Archaeological Institute"
 
 keywords: "<sup>14</sup>C, Copper Age, Chalcolithic, Innovation,
            Metallurgy, Social Change"

@@ -7,8 +7,7 @@ title: "Intra-Settlement Use of Space at Late Bronze Age Greece:
 
 author: "Angeliki Karathanou"
 
-institution: "Aristotle University of Thessaloniki,
-              Dep. of History and Archaeology"
+institution: "Aristotle University of Thessaloniki"
 
 keywords: "Storage, Disposal, Taphonomic Factors,
            Late Bronze Age, Aegean"

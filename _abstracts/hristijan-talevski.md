@@ -6,7 +6,7 @@ title: "The Permeability Level of the Early Byzantine Northern Balkan
 
 author: "Hristijan Talevski"
 
-institution: "Institute of Old Slavic Culture – Prilep"
+institution: "Institute for Old Slavic Culture - Prilep"
 
 keywords: "Balkan, Limes, Early Byzantine, Settlements,
            Disintegration, Decline"

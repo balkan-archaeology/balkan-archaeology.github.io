@@ -7,7 +7,7 @@ title: "First Insights on the Antler Industry from the
 
 author: "Christopher Arabatzis"
 
-institution: "Institute of Archaeological Sciences, University of Bern"
+institution: "University of Bern"
 
 keywords: "Antler Artifacts, Lakeside Settlement,
            Western Macedonia, Neolithic, Bronze Age"

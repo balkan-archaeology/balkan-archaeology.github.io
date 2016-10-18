@@ -6,8 +6,7 @@ title: "Ofrynio Toumba, an Example of Habitation in Eastern Macedonia
 
 author: "Ioannis Soukantos"
 
-institution: "University of Thessaly, Department of
-              History-Archaeology and Social Anthropology"
+institution: "University of Thessaly"
 
 keywords: "Northern Greece, Kavala, Late Bronze Age, Toumba, Habitation"
 

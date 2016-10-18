@@ -5,7 +5,7 @@ title: "The Coinage of King Rhoemetalces II"
 
 author: "Svetoslav Yordanov"
 
-institution: "NAIM-BAS"
+institution: "NIAM-BAS"
 
 keywords: "Thracian Numismatics, Ancient Thrace, Thracian Kings"
 ---

@@ -5,7 +5,7 @@ title: "Neolithic Ceramic Lids from North Central Bulgaria"
 
 author: "Ivan Suvandzhiev"
 
-institution: "University of Veliko Turnovo “St.Cyril and St. Methodius”"
+institution: "University of Veliko Turnovo “St. Cyril and St. Methodius”"
 
 keywords: "Neolithic Ceramics, Lower Danube Valley, Pottery Analysis"
 ---

@@ -6,8 +6,8 @@ title: "The Balkan Bronze Age Borderland Project.
 
 author: "Tobias Krapf<sup>†</sup>, Ole Aslaksen<sup>‡</sup><br>"
 
-institution: "<sup>†</sup>University of Basel / Pantheon-Sorbonne
-              University, <sup>‡</sup>University of Gothenburg"
+institution: "<sup>†</sup>University of Basel, Pantheon-Sorbonne
+              University; <sup>‡</sup>University of Gothenburg"
 
 keywords: "Late Bronze Age, Early Iron Age, Southern Balkans,
            Workshop, Platform for Exchange, Network, Interregional

@@ -6,7 +6,7 @@ title: "Hellenistic Bronze Pitcher from the Village of Tazha in the
 
 author: "Vladislav Zhivkov"
 
-institution: "Department of Classical Archaeology, NIAM-BAS"
+institution: "NIAM-BAS"
 
 keywords: "Hellenistic Age, Bronze Pitcher, Thracian Toreutics,
            Repoussé Embossing"

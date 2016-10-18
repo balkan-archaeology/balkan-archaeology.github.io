@@ -7,7 +7,7 @@ title: "Roman Ceramic Centre Near the Village of Karavelovo,
 
 author: "Stiliyan Ivanov"
 
-institution: "University of Veliko Turnovo “St.Cyril and St. Methodius”"
+institution: "University of Veliko Turnovo “St. Cyril and St. Methodius”"
 
 keywords: ""
 ---

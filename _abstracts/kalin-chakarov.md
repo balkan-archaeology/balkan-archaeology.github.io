@@ -1,11 +1,12 @@
 ---
 layout: abstract
 
-title: "A Sanctuary of Diana Totoithiana in the Territory of Nicopolis ad Istrum"
+title: "A Sanctuary of Diana Totoithiana in the Territory of Nicopolis
+        ad Istrum"
 
 author: "Kalin Chakarov"
 
-institution: "University of Veliko Turnovo “St.Cyril and
+institution: "University of Veliko Turnovo “St. Cyril and
               St. Methodius”"
 
 keywords: "Lower Moesia, Thrace, Nicopolis ad Istrum, Late Antonine
