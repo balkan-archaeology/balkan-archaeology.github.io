@@ -2,7 +2,7 @@
 layout: abstract
 
 title: "Intra-Settlement Use of Space at Late Bronze Age Greece:
-        a Preliminary Archaeobotanical Exploration of Crop Storage
+        A Preliminary Archaeobotanical Exploration of Crop Storage
         and Refuse Disposal Strategies in the 2nd Mil. BC Aegean"
 
 author: "Angeliki Karathanou"

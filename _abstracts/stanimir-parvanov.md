@@ -1,7 +1,7 @@
 ---
 layout: abstract
 
-title: "Povelyanovo: a Site of the Varna Culture"
+title: "Povelyanovo: A Site of the Varna Culture"
 
 author: "Stanimir Parvanov"
 

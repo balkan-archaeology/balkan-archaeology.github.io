@@ -1,7 +1,7 @@
 ---
 layout: abstract
 
-title: "Old Sinies: an Abandoned Medieval Settlement in the North East
+title: "Old Sinies: An Abandoned Medieval Settlement in the North East
         Part of Corfu"
 
 author: "Dimitra Zoi"

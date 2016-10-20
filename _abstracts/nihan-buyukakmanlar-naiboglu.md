@@ -3,7 +3,7 @@ layout: abstract
 
 title: "Comparing Different Models of Complex Settlements in
         Western Anatolia and Southeast Europe During the 3rd
-        Millennium BC: the Question of Urbanization"
+        Millennium BC: The Question of Urbanization"
 
 author: "Nihan Büyükakmanlar Naiboğlu"
 
