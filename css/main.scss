@@ -63,9 +63,9 @@ table {
 }
 
 .abstract-body {
-    padding: 10px;
-    border-radius: 15px;
-    background-color:rgba(255, 255, 255, 0.5);
+    padding: 3px;
+    border-radius: 5px;
+    background-color:rgba(255, 255, 255, 0.6);
 }
 
 .post-title {
@@ -89,10 +89,9 @@ table {
 
 .abstract-list-entry {
     padding: 10px;
-    border-radius: 15px;
-    background-color:rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
 }
 
 .abstract-list-entry:hover {
-    background-color:rgba(222, 222, 255, 0.5);
+    background-color:rgba(239, 239, 255, 0.4);
 }
