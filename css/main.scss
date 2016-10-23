@@ -58,14 +58,12 @@ body {
     background-position: top center;
 }
 
-table {
-  border-spacing: 12px 6px;
+.transparent-cover {
+    background-color:rgba(255, 255, 255, 0.6);
 }
 
-.abstract-body {
-    padding: 5px;
-    border-radius: 5px;
-    background-color:rgba(255, 255, 255, 0.6);
+table {
+  border-spacing: 12px 6px;
 }
 
 .post-title {
@@ -90,7 +88,6 @@ table {
 .abstract-list-entry {
     padding: 5px;
     border-radius: 5px;
-    background-color:rgba(255, 255, 255, 0.6);
 }
 
 .abstract-list-entry:hover {
