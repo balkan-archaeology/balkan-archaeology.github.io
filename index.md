@@ -11,6 +11,10 @@ from **the 17th to the 20th of November 2016**. The conference topic
 this year is **Balkan Archaeology**. Please see the [Call for
 Papers](/call-for-papers/).
 
+All reports will be collected approximately three months after the
+conference to be published in the [Bulgarian e-Journal of
+Archaeology](http://be-ja.org/).
+
 The conference in 2016 is the fourth *Filov Symposium* and the first
 with international participation.
 
