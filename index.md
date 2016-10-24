@@ -21,14 +21,13 @@ the Paleolithic to the end of Bronze Age) and *Archaeology*.
 # News
 
 <div class="home">
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  {% for post in site.posts %}
+    <div>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2> <a href="{{ post.url }}">{{ post.title }}</a> </h2>
-        {{ post.content }}
-      </li>
-    {% endfor %}
-  </ul>
+      <h2> <a href="{{ post.url }}">{{ post.title }}</a> </h2>
+      {{ post.content }}
+      <br>
+    </div>
+  {% endfor %}
 </div>
