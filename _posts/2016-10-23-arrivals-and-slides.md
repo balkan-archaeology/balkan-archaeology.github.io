@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Arrival Times and Slides"
-date:   2016-08-05 22:00:00 +0300
+date:   2016-10-23 22:00:00 +0300
 ---
 
 We have received 47 abstracts and they can be found
