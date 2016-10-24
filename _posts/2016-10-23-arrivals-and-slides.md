@@ -10,10 +10,10 @@ your abstract or submit keywords, if you haven't done so already.
 
 We will attempt to organize parties to greet as many people on arrival
 at the airport and train and bus stations as possible. In this regard,
-please **send us copies of your tickets to Sofia** or the exact time and
-date of your arrival. This is especially important for those of you
-arriving after midday on the 17th of November, because we need to
-schedule your presentation appropriately.  Some of you have already
+please **send us copies of your tickets to Sofia** or the exact time
+and date of your arrival. This is especially important for those of
+you arriving after midday on the 17th of November, because we need to
+schedule your presentation accordingly. Some of you have already
 provided this information. In that case, it isn't necessary to do that
 again. We will complete the final schedule when we have all the
 arrival information.
