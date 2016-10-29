@@ -8,7 +8,8 @@ author: "Adelina Darie"
 
 institution: "Bucharest Municipal Museum"
 
-keywords: ""
+keywords: "Human Representation, Ornaments, Metal, Distribution,
+           Settlement, Necropolis, Symbolism"
 ---
 
 This study emphasizes the association between two distinct raw
