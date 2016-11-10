@@ -9,7 +9,8 @@ author: "Stiliyan Ivanov"
 
 institution: "University of Veliko Turnovo “St. Cyril and St. Methodius”"
 
-keywords: ""
+keywords: "Lower Moesia, Roman Period, Pottery Centre, Northeastern
+           Bulgaria, Karavelovo"
 ---
 
 The archaeological site near the village of Karavelovo, Shumen
