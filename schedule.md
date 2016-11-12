@@ -53,8 +53,8 @@ Jump to:
 <div class="schedule-date" id="17-november">Thursday, November 17</div>
 <hr>
 
-| 14.00 - 14.45 | Registration |
-| 14.45 - 15.00 | Opening |
+| 14.00 - 14.45 | Registration | (Sofia University, lecture hall 23) |
+| 14.45 - 15.00 | Opening | (Sofia University, lecture hall 23) |
 
 <div class="schedule-divider" id="17a"><table><tr>
       <td>Afternoon session <br/> <em>Prehistory</em></td>
