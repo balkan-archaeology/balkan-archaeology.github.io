@@ -30,7 +30,7 @@ permalink: /programme/
    <tr>
    <td>{{ slot.timeslot }}</td>
    <td>{{ slot.author }}</td>
-   <td>{{ slot.title }}</td>
+   <td><a href="{{ slot.url }}">{{ slot.title }}</a></td>
    </tr>
 {% endif %}
 {% endfor %}
@@ -51,7 +51,7 @@ permalink: /programme/
    <tr>
    <td>{{ slot.timeslot }}</td>
    <td>{{ slot.author }}</td>
-   <td>{{ slot.title }}</td>
+   <td><a href="{{ slot.url }}">{{ slot.title }}</a></td>
    </tr>
 {% endif %}
 {% endfor %}
@@ -69,7 +69,7 @@ permalink: /programme/
    <tr>
    <td>{{ slot.timeslot }}</td>
    <td>{{ slot.author }}</td>
-   <td>{{ slot.title }}</td>
+   <td><a href="{{ slot.url }}">{{ slot.title }}</a></td>
    </tr>
 {% endif %}
 {% endfor %}
@@ -92,7 +92,7 @@ permalink: /programme/
    <tr>
    <td>{{ slot.timeslot }}</td>
    <td>{{ slot.author }}</td>
-   <td>{{ slot.title }}</td>
+   <td><a href="{{ slot.url }}">{{ slot.title }}</a></td>
    </tr>
 {% endif %}
 {% endfor %}
@@ -110,7 +110,7 @@ permalink: /programme/
    <tr>
    <td>{{ slot.timeslot }}</td>
    <td>{{ slot.author }}</td>
-   <td>{{ slot.title }}</td>
+   <td><a href="{{ slot.url }}">{{ slot.title }}</a></td>
    </tr>
 {% endif %}
 {% endfor %}
@@ -130,7 +130,7 @@ permalink: /programme/
    <tr>
    <td>{{ slot.timeslot }}</td>
    <td>{{ slot.author }}</td>
-   <td>{{ slot.title }}</td>
+   <td><a href="{{ slot.url }}">{{ slot.title }}</a></td>
    </tr>
 {% endif %}
 {% endfor %}
@@ -148,7 +148,7 @@ permalink: /programme/
    <tr>
    <td>{{ slot.timeslot }}</td>
    <td>{{ slot.author }}</td>
-   <td>{{ slot.title }}</td>
+   <td><a href="{{ slot.url }}">{{ slot.title }}</a></td>
    </tr>
 {% endif %}
 {% endfor %}
@@ -172,7 +172,7 @@ permalink: /programme/
    <tr>
    <td>{{ slot.timeslot }}</td>
    <td>{{ slot.author | remove: "†" | remove: "‡"}}</td>
-   <td>{{ slot.title }}</td>
+   <td><a href="{{ slot.url }}">{{ slot.title }}</a></td>
    </tr>
 {% endif %}
 {% endfor %}
@@ -190,7 +190,7 @@ permalink: /programme/
    <tr>
    <td>{{ slot.timeslot }}</td>
    <td>{{ slot.author }}</td>
-   <td>{{ slot.title }}</td>
+   <td><a href="{{ slot.url }}">{{ slot.title }}</a></td>
    </tr>
 {% endif %}
 {% endfor %}
