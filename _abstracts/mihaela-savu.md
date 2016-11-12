@@ -11,6 +11,10 @@ institution: "Christian Albrechts University of Kiel"
 
 keywords: "Late Neolithic, Chalcolithic, Lower Danube Region, Fishing
            Equipment, Research Methodology"
+
+session_id: "17a"
+
+timeslot: "16.30 - 17.00"
 ---
 
 The Late Neolithic and Chalcolithic settlements in the Lower Danube

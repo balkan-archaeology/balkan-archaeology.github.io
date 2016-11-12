@@ -10,6 +10,10 @@ institution: "Central European University, University College London"
 
 keywords: "Prone Position, Deviant Burials, Bulgaria, Social
            Archaeology"
+
+session_id: "19ma"
+
+timeslot: "11.15 - 11.45"
 ---
 
 The presentation will discuss a particular group of deviant burials

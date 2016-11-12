@@ -11,6 +11,10 @@ institution: "German Archaeological Institute"
 
 keywords: "<sup>14</sup>C, Copper Age, Chalcolithic, Innovation,
            Metallurgy, Social Change"
+
+session_id: "18ap"
+
+timeslot: "16.30 - 17.00"
 ---
 
 5th Millennium BC is a period of key innovations, that have set the

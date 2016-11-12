@@ -8,6 +8,10 @@ author: "Ivan Suvandzhiev"
 institution: "University of Veliko Turnovo “St. Cyril and St. Methodius”"
 
 keywords: "Neolithic Ceramics, Lower Danube Valley, Pottery Analysis"
+
+session_id: "17a"
+
+timeslot: "16.00 - 16.30"
 ---
 
 The lids are one of the seldom discovered types of vessels from the

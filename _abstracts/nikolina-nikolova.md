@@ -9,6 +9,10 @@ author: "Nikolina Nikolova"
 institution: "Sofia University “St. Kliment Ohridski”"
 
 keywords: "Early Neolithic, Thrace, Ditches, Enclosures, Burials, Funerary Practices"
+
+session_id: "17a"
+
+timeslot: "15.30 - 16.00"
 ---
 
 Prehistory funerary practices were always central to the Archaeology

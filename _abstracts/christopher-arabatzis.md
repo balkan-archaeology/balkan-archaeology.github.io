@@ -11,6 +11,10 @@ institution: "University of Bern"
 
 keywords: "Antler Artifacts, Lakeside Settlement,
            Western Macedonia, Neolithic, Bronze Age"
+
+session_id: "19ap"
+
+timeslot: "15.15 - 15.45"
 ---
 
 The last fifteen years the Archaeological Service of Florina has

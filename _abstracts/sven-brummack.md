@@ -12,6 +12,10 @@ institution: "Freie Universität Berlin"
 keywords: "Burial Analysis, Copper Age, Chalcolithic,
            Inequality, Kodžadermen-Gumelniţa-Karanovo VI-Complex,
            Social Archaeology"
+
+session_id: "18ap"
+
+timeslot: "14.45 - 15.15"
 ---
 
 Studies of the wide range of chalcolithic burials in the

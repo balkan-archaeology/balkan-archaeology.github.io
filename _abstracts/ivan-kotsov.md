@@ -11,6 +11,10 @@ institution: "NIAM-BAS"
 
 keywords: "Spinning Process, “Short Conical” Spindle-Whorls, Wool,
            Final Chalcolithic, Mobile Stockbreeding, Central Balkans"
+
+session_id: "18ap"
+
+timeslot: "16.00 - 16.30"
 ---
 
 The Final Chalcholithic covers the time after the end of the classical

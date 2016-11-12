@@ -8,6 +8,10 @@ author: "Rumyana Yordanova"
 institution: "Sofia University “St. Kliment Ohridski”"
 
 keywords: "Rousse Settlement Mound, Burnt Houses, Complexes, Vessels"
+
+session_id: "18ap"
+
+timeslot: "15.15 - 15.45"
 ---
 
 Closed complexes define every archaeological site since they deliver

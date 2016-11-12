@@ -12,6 +12,10 @@ institution: "University of Veliko Turnovo “St. Cyril and
 keywords: "Lower Moesia, Thrace, Nicopolis ad Istrum, Late Antonine
            Period, Early Severan Period, Pediment, Sanctuary, Diana
            Totoithiana"
+
+session_id: "19ma"
+
+timeslot: "09.00 - 09.30"
 ---
 
 In 2015 Museum of History Pavlikeni received Roman age stone monuments

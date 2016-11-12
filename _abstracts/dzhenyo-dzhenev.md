@@ -9,6 +9,10 @@ author: "Dzhenyo Dzhenev"
 institution: "Sofia University “St. Kliment Ohridski”"
 
 keywords: "Medieval, Cemeteries, Stone-Lined/Cist Graves, Danube, Bulgaria"
+
+session_id: "19ma"
+
+timeslot: "10.45 - 11.15"
 ---
 
 Medieval cemeteries have since time immemorial in archaeological

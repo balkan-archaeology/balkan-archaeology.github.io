@@ -9,6 +9,10 @@ author: "Georgi Sengalevich"
 institution: "Sofia University “St. Kliment Ohridski”"
 
 keywords: "Tarnovo, Sgraffito Ceramics, Monograms, Inscriptions"
+
+session_id: "19aa"
+
+timeslot: "14.45 - 15.15"
 ---
 
 The 14th century presents a new fashion in the Byzantine culture of

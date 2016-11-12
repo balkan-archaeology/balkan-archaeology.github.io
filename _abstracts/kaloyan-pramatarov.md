@@ -10,6 +10,10 @@ institution: "Sofia University “St. Kliment Ohridski”"
 
 keywords: "Principate, Necropolis-Settlement Link, Grave's Social
            Categories, Settlement Pattern"
+
+session_id: "19ma"
+
+timeslot: "09.30 - 10.00"
 ---
 
 Main goal of the present paper is the representation of the problems

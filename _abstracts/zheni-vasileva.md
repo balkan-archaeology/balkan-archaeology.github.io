@@ -11,6 +11,10 @@ institution: "Sofia University “St. Kliment Ohridski”"
 
 keywords: "Ring-Shaped Idols, Early Bronze Age, Aegean,
            Balkans, Anatolia, Gold"
+
+session_id: "19mp"
+
+timeslot: "11.15 - 11.45"
 ---
 
 The ring-shaped idols are considered as one of the most recognisable

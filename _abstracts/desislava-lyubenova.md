@@ -10,6 +10,10 @@ institution: "NIAM-BAS"
 
 keywords: "Crescent-Shaped Pectorals, Ancient Thrace, Asia Minor,
            Scythia"
+
+session_id: "18ma"
+
+timeslot: "10.00 - 10.30"
 ---
 
 This study is focused on the origin, development and distribution of

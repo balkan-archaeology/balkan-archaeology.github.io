@@ -11,6 +11,10 @@ institution: "German Archaeological Institute"
 
 keywords: "Copper Age, Gumelniţa Culture, Anthropomorphic Figurines,
            Tell Settlement, Pietrele"
+
+session_id: "18mp"
+
+timeslot: "11.45 - 12.15"
 ---
 
 Despite many decades of research on anthropomorphic plastic of the

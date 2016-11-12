@@ -10,6 +10,10 @@ institution: "Uludağ University"
 
 keywords: "Northwestern Anatolia, Chalcolithic Era, Aktopraklık,
            Wattle and Daub Structure, Pottery"
+
+session_id: "18mp"
+
+timeslot: "10.00 - 10.30"
 ---
 
 Aktopraklık is situated 25 km west of Bursa and located on one of the

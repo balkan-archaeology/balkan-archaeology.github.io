@@ -9,6 +9,10 @@ institution: "University of Zagreb"
 
 keywords: "Gornja Tuzla, Starčevo, Vinča Culture,
            Middle-Late Neolithic"
+
+session_id: "19mp"
+
+timeslot: "09.30 - 10.00"
 ---
 
 Gornja Tuzla is located in northeastern Bosnia on the final slopes of

@@ -8,6 +8,10 @@ author: "Valentina Zović"
 institution: "University of Zadar"
 
 keywords: "Munificence, Romanization, Liburnia, Epigraphy"
+
+session_id: "18aa"
+
+timeslot: "16.30 - 17.00"
 ---
 
 In Roman Liburnia, as well as in other parts of Roman Empire, were

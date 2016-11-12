@@ -10,6 +10,10 @@ institution: "NIAM-BAS"
 
 keywords: "Hellenistic Age, Bronze Pitcher, Thracian Toreutics,
            Repoussé Embossing"
+
+session_id: "18ma"
+
+timeslot: "11.45 - 12.15"
 ---
 
 During the past century there have been a lot of discussions regarding

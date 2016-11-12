@@ -12,6 +12,10 @@ institution: "<sup>†</sup>University of Basel, Pantheon-Sorbonne
 keywords: "Late Bronze Age, Early Iron Age, Southern Balkans,
            Workshop, Platform for Exchange, Network, Interregional
            Comparison"
+
+session_id: "19ap"
+
+timeslot: "16.30 - 17.00"
 ---
 
 A new project for connecting young researchers working on the LBA and

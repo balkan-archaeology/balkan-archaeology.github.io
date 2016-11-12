@@ -9,6 +9,10 @@ institution: "Institute of Archaeology, Zagreb"
 
 keywords: "Lasinja Culture, Furchenstich, Retz-Gajary Culture,
            Houses, Settlement"
+
+session_id: "19mp"
+
+timeslot: "09.00 - 09.30"
 ---
 
 This research aims to contribute to the knowledge of middle Copper Age

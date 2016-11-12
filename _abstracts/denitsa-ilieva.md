@@ -10,6 +10,10 @@ institution: "Sofia University “St. Kliment Ohridski”"
 
 keywords: "Spouted Vessels, Bronze Age, Later Third Millennium BC,
            Early Second Millennium BC, Upper Thrace"
+
+session_id: "19mp"
+
+timeslot: "10.00 - 10.30"
 ---
 
 In the later third millennium BC pottery production in Upper Thrace is

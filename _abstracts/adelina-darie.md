@@ -10,6 +10,10 @@ institution: "Bucharest Municipal Museum"
 
 keywords: "Human Representation, Ornaments, Metal, Distribution,
            Settlement, Necropolis, Symbolism"
+
+session_id: "18mp"
+
+timeslot: "10.45 - 11.15"
 ---
 
 This study emphasizes the association between two distinct raw

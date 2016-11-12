@@ -8,6 +8,10 @@ author: "Svetoslav Yordanov"
 institution: "NIAM-BAS"
 
 keywords: "Thracian Numismatics, Ancient Thrace, Thracian Kings"
+
+session_id: "18aa"
+
+timeslot: "15.15 - 15.45"
 ---
 
 About the known from sources and from epigraphic monuments Thracian

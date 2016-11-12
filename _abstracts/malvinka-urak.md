@@ -10,6 +10,10 @@ institution: "Babeş-Bolyai University, Cluj-Napoca"
 
 keywords: "Middle La Tène, Rescue Excavation, Pottery Kiln,
            Double-Lyre Stamp"
+
+session_id: "18ma"
+
+timeslot: "11.15 - 11.45"
 ---
 
 For different reasons, during the last decades, the research of the La

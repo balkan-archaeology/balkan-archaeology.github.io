@@ -9,6 +9,10 @@ author: "Theodoros Zygouris"
 institution: "Greek Ministry of Education"
 
 keywords: "Amber, Bronze Age, Commodities, Value"
+
+session_id: "19mp"
+
+timeslot: "11.45 - 12.15"
 ---
 
 This presentation examines the current state of research on

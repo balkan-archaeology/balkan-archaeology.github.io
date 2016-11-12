@@ -8,6 +8,10 @@ author: "Berkay Dinçer"
 institution: "Istanbul University"
 
 keywords: "Lower Paleolithic, Lithic Technology, Hominin Dispersals, Marmara Sea"
+
+session_id: "17a"
+
+timeslot: "15.00 - 15.30"
 ---
 
 Today Marmara Sea separates Balkan and Anatolian peninsulas from each

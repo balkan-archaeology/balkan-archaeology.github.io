@@ -11,6 +11,10 @@ institution: "University of Veliko Turnovo “St. Cyril and St. Methodius”"
 
 keywords: "Lower Moesia, Roman Period, Pottery Centre, Northeastern
            Bulgaria, Karavelovo"
+
+session_id: "18aa"
+
+timeslot: "17.00 - 17.30"
 ---
 
 The archaeological site near the village of Karavelovo, Shumen

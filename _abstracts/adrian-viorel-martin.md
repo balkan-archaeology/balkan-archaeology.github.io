@@ -8,6 +8,10 @@ author: "Adrian-Viorel Martin"
 institution: "Babeş-Bolyai University, Cluj-Napoca"
 
 keywords: "Balkan, Theos Hypsistos, Greco-Roman Religion, Epigraphy"
+
+session_id: "18aa"
+
+timeslot: "16.00 - 16.30"
 ---
 
 More than any other cult of the Roman world, the worship of Theos

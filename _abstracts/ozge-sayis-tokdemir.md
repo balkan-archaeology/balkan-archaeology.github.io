@@ -8,6 +8,10 @@ author: "Özge Sayış Tokdemir"
 institution: "National and Kapodistrian University of Athens"
 
 keywords: "Jewellery, Women, Archaic, Cyclades"
+
+session_id: "18aa"
+
+timeslot: "14.45 - 15.15"
 ---
 
 Jewellery is one of the oldest forms of body adornment; recently found

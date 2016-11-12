@@ -10,6 +10,10 @@ institution: "Alexandru Ioan Cuza University of Iași"
 
 keywords: "Early Iron Age, NW Pontic Area, Iron Metallurgy, Iron
            Technology, Archaeometry, New Perspectives"
+
+session_id: "18ma"
+
+timeslot: "09.00 - 09.30"
 ---
 
 This paper is a review of the course of research during the last

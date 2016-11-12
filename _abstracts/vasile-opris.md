@@ -9,6 +9,10 @@ institution: "Vasile Pârvan Institute of Archaeology,
               Bucharest Municipal Museum"
 
 keywords: ""
+
+session_id: "18mp"
+
+timeslot: "11.15 - 11.45"
 ---
 
 The pottery of Gumelnitsa culture (4550-3900 B.C.) was first studied

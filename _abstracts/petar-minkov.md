@@ -9,6 +9,10 @@ author: "Petar Minkov"
 institution: "Sofia University “St. Kliment Ohridski”"
 
 keywords: "Early Bronze Age, Small Finds, Clay Vehicle and Wheel Models"
+
+session_id: "19ap"
+
+timeslot: "14.15 - 14.45"
 ---
 
 In the last few decades a small group of finds from the Early Bronze

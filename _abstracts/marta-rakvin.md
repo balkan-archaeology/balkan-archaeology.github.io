@@ -11,6 +11,10 @@ institution: "University of Zagreb"
 keywords: "Hillfort Settlement, Early to Late Iron Age Transition,
            Kaptol-Gradci, Croatia, Geophysical Survey, LiDAR,
            Multidisciplinary Approach"
+
+session_id: "18ma"
+
+timeslot: "09.30 - 10.00"
 ---
 
 The site Kaptol located in Požega valley, in present day continental

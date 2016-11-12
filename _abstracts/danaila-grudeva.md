@@ -9,6 +9,10 @@ institution: "Sofia University “St. Kliment Ohridski”"
 
 keywords: "Furniture, Klinai, Type B Decoration, Late Classical and
            Hellenistic Period, Thrace, Tombs"
+
+session_id: "18ma"
+
+timeslot: "10.45 - 11.15"
 ---
 
 The monumental tombs in Thrace from the Late Classical and Hellenistic

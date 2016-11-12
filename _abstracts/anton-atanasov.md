@@ -10,6 +10,10 @@ author: "Anton Atanasov"
 institution: "University of Veliko Turnovo “St. Cyril and St. Methodius”"
 
 keywords: ""
+
+session_id: "18mp"
+
+timeslot: "09.00 - 09.30"
 ---
 
 The methods of the statistics are not truly traditional, but at the

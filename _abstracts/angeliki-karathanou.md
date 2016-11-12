@@ -11,6 +11,10 @@ institution: "Aristotle University of Thessaloniki"
 
 keywords: "Storage, Disposal, Taphonomic Factors,
            Late Bronze Age, Aegean"
+
+session_id: "19ap"
+
+timeslot: "14.45 - 15.15"
 ---
 
 Archaeobotanical data from the Late Bronze Age (1700-1050 BC) layers

@@ -10,6 +10,10 @@ institution: "Sofia University “St. Kliment Ohridski”"
 
 keywords: "Early Middle Age, Necropolises, Northwestern Bulgaria,
            Christianization, Slavs, Avars, Ethnical Identification"
+
+session_id: "19ma"
+
+timeslot: "10.00 - 10.30"
 ---
 
 The subject of research are a group of necropolises, most of them

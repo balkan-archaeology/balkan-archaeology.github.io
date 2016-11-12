@@ -10,6 +10,10 @@ institution: "Babeş-Bolyai University, Cluj-Napoca"
 
 keywords: "Cooperation, Collective Action, Archaeology, `Dacian`
            World, Identity"
+
+session_id: "18aa"
+
+timeslot: "14.15 - 14.45"
 ---
 
 In different parts of the world individuals choose to cooperate as

@@ -10,6 +10,10 @@ institution: "Institute for Old Slavic Culture - Prilep"
 
 keywords: "Balkan, Limes, Early Byzantine, Settlements,
            Disintegration, Decline"
+
+session_id: "19ma"
+
+timeslot: "11.45 - 12.15"
 ---
 
 The subject of this study is an attempt to investigate the early

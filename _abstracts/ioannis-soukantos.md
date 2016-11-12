@@ -10,6 +10,9 @@ institution: "University of Thessaly"
 
 keywords: "Northern Greece, Kavala, Late Bronze Age, Toumba, Habitation"
 
+session_id: "19ap"
+
+timeslot: "16.00 - 16.30"
 ---
 
 Ofrynio Toumba, known today by the local name ‘Harman Tepe’, is a

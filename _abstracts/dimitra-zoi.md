@@ -10,6 +10,10 @@ institution: "University of Ioannina"
 
 keywords: "Corfu Island, Pantokrator, Old Sinies, Medieval,
            Settlement, Post Byzantine, Frescoes, Rural Architecture"
+
+session_id: "19aa"
+
+timeslot: "16.00 - 16.30"
 ---
 
 A particularly important residential complex of 23 medieval

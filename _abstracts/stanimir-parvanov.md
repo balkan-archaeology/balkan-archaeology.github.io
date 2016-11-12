@@ -9,6 +9,10 @@ institution: "Sofia University “St. Kliment Ohridski”"
 
 keywords: "Povelyanovo, Varna Lakes Region, Late Eneolithic Pottery,
            Varna Culture"
+
+session_id: "18ap"
+
+timeslot: "14.15 - 14.45"
 ---
 
 The Povelyanovo site was found during construction works in April

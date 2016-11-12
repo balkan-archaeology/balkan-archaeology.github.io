@@ -11,6 +11,10 @@ institution: "University of Istanbul"
 
 keywords: "3rd Millennium BC, Trade Networks,
            Social Differentiation, Urbanization"
+
+session_id: "19mp"
+
+timeslot: "10.45 - 11.15"
 ---
 
 The 3rd millennium BC has witnessed one of the most dynamic

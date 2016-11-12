@@ -10,6 +10,10 @@ institution: "Democritus University of Thrace, Komotini"
 
 keywords: "Late Neolithic, Community, Borders, Interaction, Ceramics,
            Style"
+
+session_id: "18mp"
+
+timeslot: "09.30 - 10.00"
 ---
 
 It is tempting to treat borders as fixed, lines drawn on a map, but to

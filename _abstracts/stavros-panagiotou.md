@@ -11,6 +11,10 @@ institution: "Neapolis University, Cyprus"
 keywords: "Arab-Byzantine Relations, Coptic Navigation,
            Military Intelligence, Skylitzes Manuscript,
            Eastern Mediterranean"
+
+session_id: "19aa"
+
+timeslot: "14.15 - 14.45"
 ---
 
 Byzantium and the Arabs, the two great powers in early Medieval times,

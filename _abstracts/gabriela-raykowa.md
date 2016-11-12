@@ -8,6 +8,10 @@ author: "Gabriela Raykowa"
 institution: "NIAM-BAS"
 
 keywords: "Adornments, Medieval, Necropolis"
+
+session_id: "19aa"
+
+timeslot: "15.30 - 16.00"
 ---
 
 The object of this article is to present the jewels found during the
