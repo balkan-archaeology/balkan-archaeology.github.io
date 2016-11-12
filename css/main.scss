@@ -97,11 +97,11 @@ table {
 .page-link {
     padding: 10px;
     border-radius: 10px;
+    text-decoration: underline;
 }
 
 .page-link:hover {
     background-color:rgba(205, 77, 30, 0.05);
-    text-decoration: none;
 }
 
 ul {
