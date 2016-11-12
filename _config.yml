@@ -24,3 +24,4 @@ collections:
     institution: string
     keywords: string
     output: true
+  breaks:

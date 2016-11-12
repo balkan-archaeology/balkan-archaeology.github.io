@@ -4,7 +4,13 @@ title: Programme
 permalink: /programme/
 ---
 
-{% assign abstracts = site.abstracts | sort: 'timeslot' %}
+{% assign slots = site.abstracts %}
+
+{% for break in site.breaks %}
+{% assign slots = slots | push: break %}
+{% endfor %}
+
+{% assign sorted_slots = slots | sort: 'timeslot' %}
 
 <div class="schedule-date">Thursday, November 17</div>
 <hr>
@@ -19,12 +25,12 @@ permalink: /programme/
 </tr></table></div>
 
 <table class="schedule-table">
-{% for abstract in abstracts %}
-{% if abstract.session_id == "17a" %}
+{% for slot in sorted_slots %}
+{% if slot.session_id == "17a" %}
    <tr>
-   <td>{{ abstract.timeslot }}</td>
-   <td>{{ abstract.author }}</td>
-   <td>{{ abstract.title }}</td>
+   <td>{{ slot.timeslot }}</td>
+   <td>{{ slot.author }}</td>
+   <td>{{ slot.title }}</td>
    </tr>
 {% endif %}
 {% endfor %}
@@ -40,12 +46,12 @@ permalink: /programme/
 </tr></table></div>
 
 <table class="schedule-table">
-{% for abstract in abstracts %}
-{% if abstract.session_id == "18mp" %}
+{% for slot in sorted_slots %}
+{% if slot.session_id == "18mp" %}
    <tr>
-   <td>{{ abstract.timeslot }}</td>
-   <td>{{ abstract.author }}</td>
-   <td>{{ abstract.title }}</td>
+   <td>{{ slot.timeslot }}</td>
+   <td>{{ slot.author }}</td>
+   <td>{{ slot.title }}</td>
    </tr>
 {% endif %}
 {% endfor %}
@@ -58,12 +64,12 @@ permalink: /programme/
 </tr></table></div>
 
 <table class="schedule-table">
-{% for abstract in abstracts %}
-{% if abstract.session_id == "18ma" %}
+{% for slot in sorted_slots %}
+{% if slot.session_id == "18ma" %}
    <tr>
-   <td>{{ abstract.timeslot }}</td>
-   <td>{{ abstract.author }}</td>
-   <td>{{ abstract.title }}</td>
+   <td>{{ slot.timeslot }}</td>
+   <td>{{ slot.author }}</td>
+   <td>{{ slot.title }}</td>
    </tr>
 {% endif %}
 {% endfor %}
@@ -76,12 +82,12 @@ permalink: /programme/
 </tr></table></div>
 
 <table class="schedule-table">
-{% for abstract in abstracts %}
-{% if abstract.session_id == "18ap" %}
+{% for slot in sorted_slots %}
+{% if slot.session_id == "18ap" %}
    <tr>
-   <td>{{ abstract.timeslot }}</td>
-   <td>{{ abstract.author }}</td>
-   <td>{{ abstract.title }}</td>
+   <td>{{ slot.timeslot }}</td>
+   <td>{{ slot.author }}</td>
+   <td>{{ slot.title }}</td>
    </tr>
 {% endif %}
 {% endfor %}
@@ -94,12 +100,12 @@ permalink: /programme/
 </tr></table></div>
 
 <table class="schedule-table">
-{% for abstract in abstracts %}
-{% if abstract.session_id == "18aa" %}
+{% for slot in sorted_slots %}
+{% if slot.session_id == "18aa" %}
    <tr>
-   <td>{{ abstract.timeslot }}</td>
-   <td>{{ abstract.author }}</td>
-   <td>{{ abstract.title }}</td>
+   <td>{{ slot.timeslot }}</td>
+   <td>{{ slot.author }}</td>
+   <td>{{ slot.title }}</td>
    </tr>
 {% endif %}
 {% endfor %}
@@ -114,12 +120,12 @@ permalink: /programme/
 </tr></table></div>
 
 <table class="schedule-table">
-{% for abstract in abstracts %}
-{% if abstract.session_id == "19mp" %}
+{% for slot in sorted_slots %}
+{% if slot.session_id == "19mp" %}
    <tr>
-   <td>{{ abstract.timeslot }}</td>
-   <td>{{ abstract.author }}</td>
-   <td>{{ abstract.title }}</td>
+   <td>{{ slot.timeslot }}</td>
+   <td>{{ slot.author }}</td>
+   <td>{{ slot.title }}</td>
    </tr>
 {% endif %}
 {% endfor %}
@@ -132,12 +138,12 @@ permalink: /programme/
 </tr></table></div>
 
 <table class="schedule-table">
-{% for abstract in abstracts %}
-{% if abstract.session_id == "19ma" %}
+{% for slot in sorted_slots %}
+{% if slot.session_id == "19ma" %}
    <tr>
-   <td>{{ abstract.timeslot }}</td>
-   <td>{{ abstract.author }}</td>
-   <td>{{ abstract.title }}</td>
+   <td>{{ slot.timeslot }}</td>
+   <td>{{ slot.author }}</td>
+   <td>{{ slot.title }}</td>
    </tr>
 {% endif %}
 {% endfor %}
@@ -150,12 +156,12 @@ permalink: /programme/
 </tr></table></div>
 
 <table class="schedule-table">
-{% for abstract in abstracts %}
-{% if abstract.session_id == "19ap" %}
+{% for slot in sorted_slots %}
+{% if slot.session_id == "19ap" %}
    <tr>
-   <td>{{ abstract.timeslot }}</td>
-   <td>{{ abstract.author | remove: "†" | remove: "‡"}}</td>
-   <td>{{ abstract.title }}</td>
+   <td>{{ slot.timeslot }}</td>
+   <td>{{ slot.author | remove: "†" | remove: "‡"}}</td>
+   <td>{{ slot.title }}</td>
    </tr>
 {% endif %}
 {% endfor %}
@@ -168,12 +174,12 @@ permalink: /programme/
 </tr></table></div>
 
 <table class="schedule-table">
-{% for abstract in abstracts %}
-{% if abstract.session_id == "19aa" %}
+{% for slot in sorted_slots %}
+{% if slot.session_id == "19aa" %}
    <tr>
-   <td>{{ abstract.timeslot }}</td>
-   <td>{{ abstract.author }}</td>
-   <td>{{ abstract.title }}</td>
+   <td>{{ slot.timeslot }}</td>
+   <td>{{ slot.author }}</td>
+   <td>{{ slot.title }}</td>
    </tr>
 {% endif %}
 {% endfor %}
