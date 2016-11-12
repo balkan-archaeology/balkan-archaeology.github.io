@@ -120,6 +120,16 @@ ul {
     padding: 0px 5px;
     border-radius: 5px;
     background-color:rgba(205, 77, 30, 0.1);
+    margin-top: 10px;
+}
+
+.schedule-break {
+    padding: 0px 5px;
+    border-radius: 5px;
+    margin-top: 10px;
+    table {
+        width: 100%;
+    }
 }
 
 .schedule-divider table {

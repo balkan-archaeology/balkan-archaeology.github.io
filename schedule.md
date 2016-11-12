@@ -75,6 +75,11 @@ permalink: /programme/
 {% endfor %}
 </table>
 
+<div class="schedule-break"><hr/><table><tr>
+     <td>12.15 - 14.15</td>
+     <td><em>Lunch break</em></td>
+</tr></table><hr/></div>
+
 <div class="schedule-divider"><table><tr>
       <td>Afternoon session <br/> <em>Prehistory</em></td>
       <td><b>Sofia University, <br/> lecture hall 41A</b></td>
@@ -148,6 +153,12 @@ permalink: /programme/
 {% endif %}
 {% endfor %}
 </table>
+
+<div class="schedule-break"><hr/><table><tr>
+     <td>12.15 - 14.15</td>
+     <td><em>Lunch break</em></td>
+</tr></table><hr/></div>
+
 
 <div class="schedule-divider"><table><tr>
       <td>Afternoon session <br/> <em>Prehistory</em></td>
