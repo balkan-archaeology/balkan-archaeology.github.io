@@ -20,19 +20,19 @@ Jump to:
   <a href="#17-november">Thursday, November 17</a>
 </td></tr>
 <tr><td>
-  <a href="#17a">Afternoon session <em>Prehistory</em></a>
+  <a href="#17a"><em>Prehistory</em> (afternoon)</a>
 </td></tr>
 <tr><td class="schedule-contents-table-date">
   <a href="#18-november">Friday, November 18</a> <br/>
 </td></tr>
 <tr>
   <td>
-    <a href="#18mp">Morning session <em>Prehistory</em></a> <br/>
-    <a href="#18ap">Afternoon session <em>Prehistory</em></a>
+    <a href="#18mp"><em>Prehistory</em> (morning)</a> <br/>
+    <a href="#18ap"><em>Prehistory</em> (afternoon)</a>
   </td>
   <td>
-    <a href="#18ma">Morning session <em>Antiquity and Middle Ages</em></a> <br/>
-    <a href="#18aa">Afternoon session <em>Antiquity and Middle Ages</em></a>
+    <a href="#18ma"><em>Antiquity and Middle Ages</em> (morning)</a> <br/>
+    <a href="#18aa"><em>Antiquity and Middle Ages</em> (afternoon)</a>
   </td>
 </tr>
 <tr><td class="schedule-contents-table-date">
@@ -40,12 +40,12 @@ Jump to:
 </td></tr>
 <tr>
   <td>
-    <a href="#19mp">Morning session <em>Prehistory</em></a> <br/>
-    <a href="#19ap">Afternoon session <em>Prehistory</em></a>
+    <a href="#19mp"><em>Prehistory</em> (morning)</a> <br/>
+    <a href="#19ap"><em>Prehistory</em> (afternoon)</a>
   </td>
   <td>
-    <a href="#19ma">Morning session <em>Antiquity and Middle Ages</em></a> <br/>
-    <a href="#19aa">Afternoon session <em>Antiquity and Middle Ages</em></a>
+    <a href="#19ma"><em>Antiquity and Middle Ages</em> (morning)</a> <br/>
+    <a href="#19aa"><em>Antiquity and Middle Ages</em> (afternoon)</a>
   </td>
 </tr>
 </table>
@@ -73,6 +73,13 @@ Jump to:
 {% endif %}
 {% endfor %}
 </table>
+
+
+<div class="schedule-break"><hr/><table><tr>
+     <td>18.00 - 21.00</td>
+     <td>Welcome party</td>
+     <td>(Sofia University, lecture hall 41A)</td>
+</tr></table><hr/></div>
 
 <div class="schedule-date" id="18-november">Friday, November 18</div>
 <hr>
@@ -153,6 +160,13 @@ Jump to:
 {% endif %}
 {% endfor %}
 </table>
+
+<div class="schedule-break"><hr/><table><tr>
+     <td>18.30 - 21.00</td>
+     <td>Reception</td>
+     <td>(National Archaeological Museum)</td>
+</tr></table><hr/></div>
+
 <div class="schedule-date" id="19-november">Saturday, November 19</div>
 <hr>
 
@@ -233,3 +247,8 @@ Jump to:
 {% endif %}
 {% endfor %}
 </table>
+
+<div class="schedule-break"><hr/><table><tr>
+     <td>18.30 - 21.00</td>
+     <td>Farewell dinner</td>
+</tr></table><hr/></div>
