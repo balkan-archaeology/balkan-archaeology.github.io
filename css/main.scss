@@ -74,8 +74,13 @@ td {
   padding: 8px 3px;
 }
 
+.post-header {
+    margin-bottom: 0px;
+}
+
 .post-title {
     font-size: 32px;
+    margin-bottom: 10px;
 }
 
 .page-content {
@@ -144,6 +149,7 @@ ul {
 }
 
 .schedule-contents-table {
+    margin-bottom: 10px;
     width: 100%;
 }
 

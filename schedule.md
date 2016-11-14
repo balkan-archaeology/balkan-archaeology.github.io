@@ -50,6 +50,9 @@ Jump to:
 </tr>
 </table>
 
+Programme available as PDF [with background](/programme.pdf) and
+[without background](/programme-no-background.pdf).
+
 <div class="schedule-date" id="17-november">Thursday, November 17</div>
 <hr>
 
