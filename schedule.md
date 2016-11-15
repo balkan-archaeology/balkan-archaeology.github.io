@@ -193,7 +193,7 @@ Programme available as PDF [with background](/programme.pdf) and
 
 <div class="schedule-divider" id="19ma"><table><tr>
       <td>Morning session <br/> <em>Antiquity and Middle Ages</em></td>
-      <td><b>Sofia University, <br/> lecture hall 23</b></td>
+      <td><b>Sofia University, <br/> Conference Hall</b></td>
       <td>Session chair: Georgi Sengalevich</td>
 </tr></table></div>
 
@@ -235,7 +235,7 @@ Programme available as PDF [with background](/programme.pdf) and
 
 <div class="schedule-divider" id="19aa"><table><tr>
       <td>Afternoon session <br/> <em>Antiquity and Middle Ages</em></td>
-      <td><b>Sofia University, <br/> lecture hall 23</b></td>
+      <td><b>Sofia University, <br/> Conference Hall</b></td>
       <td>Session chair: Vladimir Staykov</td>
 </tr></table></div>
 
