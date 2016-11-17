@@ -81,7 +81,7 @@ Programme available as PDF [with background](/programme.pdf) and
 <div class="schedule-break"><hr/><table><tr>
      <td>18.00 - 21.00</td>
      <td>Welcome party</td>
-     <td>(Sofia University, lecture hall 41A)</td>
+     <td>(Sofia University, lecture hall 23)</td>
 </tr></table><hr/></div>
 
 <div class="schedule-date" id="18-november">Friday, November 18</div>
