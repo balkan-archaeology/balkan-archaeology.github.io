@@ -5,7 +5,7 @@ layout: default
 
 The Department of Archaeology of Sofia University *St. Kliment
 Ohridski* and the National Institute of Archaeology with Museum of the
-Bulgarian Academy of Sciences jointly organized an international
+Bulgarian Academy of Sciences jointly organize an international
 doctoral student conference. It took place in **Sofia, Bulgaria** from
 **the 17th to the 20th of November 2016**. The conference topic this
 year was **Balkan Archaeology**. Please see the [Call for
