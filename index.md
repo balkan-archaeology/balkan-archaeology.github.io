@@ -5,10 +5,10 @@ layout: default
 
 The Department of Archaeology of Sofia University *St. Kliment
 Ohridski* and the National Institute of Archaeology with Museum of the
-Bulgarian Academy of Sciences jointly organize an international
-doctoral student conference. It will take place in **Sofia, Bulgaria**
-from **the 17th to the 20th of November 2016**. The conference topic
-this year is **Balkan Archaeology**. Please see the [Call for
+Bulgarian Academy of Sciences jointly organized an international
+doctoral student conference. It took place in **Sofia, Bulgaria** from
+**the 17th to the 20th of November 2016**. The conference topic this
+year was **Balkan Archaeology**. Please see the [Call for
 Papers](/call-for-papers/).
 
 All reports will be collected approximately three months after the
@@ -17,10 +17,6 @@ Archaeology](http://be-ja.org/).
 
 The conference in 2016 is the fourth *Filov Symposium* and the first
 with international participation.
-
-To accommodate the significant number of participation requests, the
-presentations will be in two parallel tracks -- *Prehistory* (from
-the Paleolithic to the end of Bronze Age) and *Archaeology*.
 
 # News
 
