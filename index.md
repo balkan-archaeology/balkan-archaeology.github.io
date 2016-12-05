@@ -15,7 +15,7 @@ All reports will be collected approximately three months after the
 conference to be published in the [Bulgarian e-Journal of
 Archaeology](http://be-ja.org/).
 
-The conference in 2016 is the fourth *Filov Symposium* and the first
+The conference in 2016 was the fourth *Filov Symposium* and the first
 with international participation.
 
 # News
