@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Balkan Archaeology 2016"
 ---
 # Welcome
 
