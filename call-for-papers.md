@@ -48,10 +48,10 @@ from Sofia.
 
 ### Deadlines
 
-Participation requests: **August 31**. (Each participation request
+Participation requests: **August 31** (each participation request
 must contain the name and status of the participant, the name of the
 university or other institution of higher education, and the
-presentation title.)
+presentation title).
 
 Abstract submissions: **September 30**.
 
