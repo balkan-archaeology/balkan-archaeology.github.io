@@ -1,8 +1,10 @@
+{% comment %}
 ---
 layout: page
 title: Abstracts
 permalink: /abstracts/
 ---
+{% endcomment %}
 <div class="home">
   <ul class="post-list">
     {% for abstract in site.abstracts %}

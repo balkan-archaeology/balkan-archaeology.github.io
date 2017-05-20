@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Balkan Archaeology 2016
-email: balkan.arch.16@gmail.com
+title: Balkan Archaeology 2017
+email: balkan.arch.17@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Organized by the Department of Archaeology of Sofia University and by the National Institute of Archaeology with Museum.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -18,10 +18,18 @@ markdown: kramdown
 
 
 collections:
-  abstracts:
+  abstracts_2017:
     author: string
     title: string
     institution: string
     keywords: string
     output: true
+    permalink: /abstracts/:name
+  abstracts_2016:
+    author: string
+    title: string
+    institution: string
+    keywords: string
+    output: true
+    permalink: /abstracts/:name
   breaks:

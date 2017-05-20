@@ -2,6 +2,7 @@
 layout: page
 title: Locations and Maps
 permalink: /locations/
+show-in-nav: true
 ---
 
 | **Hotel Slavyanska Beseda** | *ul. Slavyanska 3* |

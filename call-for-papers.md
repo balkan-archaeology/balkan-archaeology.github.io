@@ -2,6 +2,7 @@
 layout: page
 title: Call for Papers
 permalink: /call-for-papers/
+show-in-nav: true
 ---
 
 Dear colleagues,

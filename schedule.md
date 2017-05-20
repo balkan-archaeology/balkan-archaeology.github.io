@@ -1,3 +1,4 @@
+{% comment %}
 ---
 layout: page
 title: Programme
@@ -255,3 +256,4 @@ Programme available as PDF [with background](/programme.pdf) and
      <td>18.30 - 21.00</td>
      <td>Farewell dinner</td>
 </tr></table><hr/></div>
+{% endcomment %}
