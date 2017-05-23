@@ -55,6 +55,8 @@ presentation title).
 
 *Abstract submissions*: **September 30**.
 
+<br>
+
 <div style="float: right; text-align: right;">
   <i>Assoc. prof. Dr P. Georgieva</i>,
   <br>
