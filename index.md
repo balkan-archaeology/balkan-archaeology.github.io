@@ -8,7 +8,7 @@ The Department of Archaeology of Sofia University *St. Kliment
 Ohridski* and the National Institute of Archaeology with Museum of the
 Bulgarian Academy of Sciences jointly organize an international
 doctoral student conference. It will take place in **Sofia, Bulgaria**
-from **the 19th to the 21th of November 2017**. The conference topic
+from **the 19th to the 21st of November 2017**. The conference topic
 is **Balkan Archaeology**. Please see the [Call for
 Papers](/call-for-papers/) and the [abstracts from the previous
 edition](/abstracts-2016/).
