@@ -17,8 +17,6 @@ circular icons are clickable.
 src="https://www.google.com/maps/d/embed?mid=12ro2QmAxhpADmznHH2waVK1YlXM"
 width="90%" height="480" frameborder="0" style="border:0"></iframe></center>
 
-NB: Clicking on the hotel (the circle with a bed in it on the above map) may show a photograph of a neighbouring building, not of the hotel.
-
 ### From Sofia Airport to Sofia University
 
 **By Metro**: From terminal 2, take the metro just outside the
