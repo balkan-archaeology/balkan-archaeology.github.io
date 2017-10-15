@@ -7,7 +7,8 @@ author: "Denitsa Ilieva"
 
 institution: "Sofia University “St.Kliment Ohridski”"
 
-keywords: "Depas Amphikypellon, Early Bronze Age, Anatolia, Aegean, Balkans, Imports"
+keywords: "Depas Amphikypellon, Early Bronze Age, Anatolia, Aegean,
+          Balkans, Imports"
 ---
 
 Depas amphikypellon is one of the most famous vessels in the

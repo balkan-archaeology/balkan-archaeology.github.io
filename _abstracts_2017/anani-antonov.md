@@ -1,7 +1,7 @@
 ---
 layout: abstract
 
-title: "Breznik: A previously unknown Late Roman town in Dacia
+title: "Breznik: A Previously Unknown Late Roman Town in Dacia
        Mediterranea"
 
 author: "Anani Antonov"
@@ -9,7 +9,7 @@ author: "Anani Antonov"
 institution: "Sofia University “St.Kliment Ohridski”"
 
 keywords: "Late antiquity, Town centers, Procopius of Cesarea, Burdo
-          hill, Breznik"
+          Hill, Breznik"
 ---
 
 Hierocles’s „Synecdemus“ and Procopius of Caesarea’s „De aedeficiis”
