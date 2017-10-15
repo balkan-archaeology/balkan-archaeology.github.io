@@ -5,7 +5,7 @@ title: "Cebrus/Clabrus-Augusta Region and the End of the Iron Age"
 
 author: "Vladislav Zhivkov"
 
-institution: "NAIM-BAS"
+institution: "NAIM – BAS"
 
 keywords: "Moesia, End of Iron Age, Late Hellenistic, Dacian Pottery"
 ---
