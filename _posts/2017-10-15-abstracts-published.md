@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Abstracts and Participants Published"
+title:  "Abstracts and List of Participants Published"
 date:   2017-10-15 21:00:00 +0300
 ---
 
