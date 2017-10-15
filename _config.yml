@@ -31,5 +31,5 @@ collections:
     institution: string
     keywords: string
     output: true
-    permalink: /abstracts/:name
+    permalink: /abstracts-2016/:name
   breaks:

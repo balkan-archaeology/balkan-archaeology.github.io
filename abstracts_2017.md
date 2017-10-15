@@ -1,13 +1,12 @@
-{% comment %}
 ---
 layout: page
 title: Abstracts
 permalink: /abstracts/
+show-in-nav: true
 ---
-{% endcomment %}
 <div class="home">
   <ul class="post-list">
-    {% for abstract in site.abstracts %}
+    {% for abstract in site.abstracts_2017 %}
     <li class="abstract-list-entry"
         onclick='window.open("{{ abstract.url }}","_self")'>
       <a href="{{ abstract.url }}" class="title-link">
