@@ -5,7 +5,7 @@ title: "The Board and Astragal Games of Ancient Greeks and Romans"
 
 author: "Marek Niesobski"
 
-institution: "Adam Mickiewicz University"
+institution: "Adam Mickiewicz University, Poznań, Poland"
 
 keywords: ""
 ---

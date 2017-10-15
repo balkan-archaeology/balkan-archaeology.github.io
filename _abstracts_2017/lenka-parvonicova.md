@@ -6,7 +6,7 @@ title: "Food in Ancient Thrace: The Depiction of Food and Dining
 
 author: "Lenka Parvoničová"
 
-institution: "Charles University in Prague"
+institution: "Charles University, Prague, Czech Republic"
 
 keywords: "Thrace, Tombs, Wall Painting, Food, Feasting"
 ---

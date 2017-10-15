@@ -5,7 +5,7 @@ title: "Agriculture as Niche Construction: Eco-Cultural Niche Evolution During t
 
 author: "Brent Robbie Whitford"
 
-institution: "Trent University"
+institution: "Trent University, Peterborough ON, Canada"
 
 keywords: "Neolithic, Agriculture, Niche Construction, Ecological
           Niche, Eco-Cultural Niche Modeling, Bulgaria, Greece"
