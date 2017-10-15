@@ -18,6 +18,6 @@ show-in-nav: true
 | Radoslav Rachev | | | Sofia University “St.Kliment Ohridski” |
 | Samuil Kamburov | | | Sofia University “St.Kliment Ohridski” |
 | Stanimir Parvanov | | | Sofia University “St.Kliment Ohridski” |
-| Veselin Danov, Radoslav Rachev | | | Sofia University “St.Kliment Ohridski” |
+| Veselin Danov | | | Sofia University “St.Kliment Ohridski” |
 | Veselina Dimitrova | | | Sofia University “St.Kliment Ohridski” |
 | Vladislav Zhivkov | | | NAIM – BAS |
