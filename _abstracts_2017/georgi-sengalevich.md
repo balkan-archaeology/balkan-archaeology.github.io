@@ -5,7 +5,7 @@ title: "The Visual Language of Signs and Symbols of the Elite in the Byzantine W
 
 author: "Georgi Sengalevich"
 
-institution: ""
+institution: "Sofia University “St. Kliment Ohridski”"
 
 keywords: ""
 ---
